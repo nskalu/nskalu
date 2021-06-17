@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Ngozi is a software engineer with 5 years experience and demonstrated ability building software solutions across different languages, frameworks and databases such as C#, Java, JavaScript, TypeScript, Node.js, Express.js, MSSQL, MongoDB, and MySQL.
 
-I have proven experience designing, building and implementing back-end solutions and REST APIs with tests, databases, AWS and CI/CD. She cares about reliability, scalability, and performance end to end.
+I have proven experience designing, building and implementing back-end solutions and REST APIs with tests, databases, AWS and CI/CD. I care about reliability, scalability, and performance.
 
-I'm currently learning Kubernetes, Docker, Java, .Net Core 3.1.
+I have spent time learning DataStructures, Algorithms, Java and I am currently learning Kubernetes, Docker, .Net Core 3.1.
