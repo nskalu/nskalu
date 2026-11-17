@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ngozi is a software engineer with 7 years of experience and demonstrated ability building software solutions across different languages, frameworks, and databases such as C#, Java, JavaScript, TypeScript, Node.js, Express.js, MSSQL, MongoDB, and MySQL.
+Ngozi is a software engineer with more than 8 years of experience and demonstrated ability building software solutions across different languages, frameworks, and databases such as C#, Java, JavaScript, TypeScript, Node.js, Express.js, MSSQL, MongoDB, and MySQL.
 
 I have proven experience designing, building, and implementing back-end solutions and REST APIs with tests, databases, Azure, and CI/CD. I care about reliability, scalability, and performance.
 
